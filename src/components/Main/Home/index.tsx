@@ -1,4 +1,7 @@
+/* eslint-disable no-console */
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import Fade from 'react-reveal/Fade'
+import { fileSaver } from 'file-saver'
 
 export default function (): JSX.Element {
   return (
@@ -11,7 +14,7 @@ export default function (): JSX.Element {
             <span className="home__profession">Full Stack Developer</span>
             <a
               download=""
-              href="assets/pdf/CV - JULIAN VAZQUEZ - EN.pdf"
+              href="../../assets/img/cvproject.png"
               className="button button-light home__button"
             >
               Download CV
@@ -21,7 +24,7 @@ export default function (): JSX.Element {
         <Fade bottom>
           <div className="home__social">
             <a
-              href="https://github.com/jumjules42/"
+              href="https://github.com/fmasgrau/"
               target="_blank"
               className="home__social-icon"
               rel="noreferrer"
@@ -29,20 +32,12 @@ export default function (): JSX.Element {
               <i className="bx bxl-github"></i>
             </a>
             <a
-              href="https://www.linkedin.com/in/julianvazquezdev/"
+              href="https://www.linkedin.com/in/facundomasgrau/"
               target="_blank"
               className="home__social-icon"
               rel="noreferrer"
             >
               <i className="bx bxl-linkedin"></i>
-            </a>
-            <a
-              href="https://twitter.com/jumjules/"
-              target="_blank"
-              className="home__social-icon"
-              rel="noreferrer"
-            >
-              <i className="bx bxl-twitter"></i>
             </a>
           </div>
         </Fade>

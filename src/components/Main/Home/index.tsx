@@ -13,7 +13,7 @@ export default function (): JSX.Element {
             <span className="home__profession">Full Stack Developer</span>
             <a
               download=""
-              href="https://drive.google.com/u/0/uc?id=1q1z07yRxj-eyN3e8wgzF_02eDJKeq2zT&export=download"
+              href="https://drive.google.com/u/0/uc?id=16Ap8KFgg_DWD635jP9El1pblrsHgz0Vc&export=download"
               className="button button-light home__button"
             >
               Download CV

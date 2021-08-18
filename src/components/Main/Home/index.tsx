@@ -1,7 +1,6 @@
 /* eslint-disable no-console */
 /* eslint-disable @typescript-eslint/no-unused-vars */
 import Fade from 'react-reveal/Fade'
-import { fileSaver } from 'file-saver'
 
 export default function (): JSX.Element {
   return (

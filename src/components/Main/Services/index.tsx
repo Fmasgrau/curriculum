@@ -35,7 +35,7 @@ export default function (): JSX.Element {
             Nginx
             <br />
             <i className="bx bx-data services__icon-tech"></i>
-            PosgreSQL <br />
+            PostgreSQL <br />
             <i className="bx bx-data services__icon-tech"></i>
             MongoDB <br />
           </div>

@@ -13,11 +13,12 @@ export default function (): JSX.Element {
             <span>
               Hi, I'm Facundo, nice to meet you <br />
             </span>
-            I’m from Argentina and I'm front end developer focusing in react and
-            javascript. I worked with other technologies such python, node, php,
-            postgress and mongo. Personally besides of dev I'm an accountant,
-            interested in market capital and criptocurrencies, I like to play
-            football , go to the gym and I love hunging out with my friends
+            Hi, I'm Facundo, nice to meet you.I’m from Argentina and I'm a front
+            end developer focusing on react and javascript. I've worked with
+            other technologies such as python, node, php, postgresql and mongo.
+            Besides being a dev I'm an accountant, and I’m interested in market
+            capital and criptocurrencies. I like to play football , go to the
+            gym and I love hanging out with Friends
           </p>
 
           <div>

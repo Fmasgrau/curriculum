@@ -35,11 +35,11 @@ export default function index(): JSX.Element {
                 Contact Me
               </a>
             </li>
-            <li className="nav__item">
+            {/* <li className="nav__item">
               <a href="/index_ES.html" className="nav__link">
                 ES
               </a>
-            </li>
+            </li> */}
           </ul>
         </div>
 

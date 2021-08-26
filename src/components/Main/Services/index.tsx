@@ -20,6 +20,13 @@ export default function (): JSX.Element {
             <i className="bx bxl-bootstrap services__icon-tech"></i>
             Bootstrap <br />
             <i className="bx bx-user services__icon-tech"></i> Tailwind Css
+            <br />
+            <i className="bx bx-mask services__icon-tech"></i> React testing
+            library <br />
+            <i className="bx bx-mask services__icon-tech"></i>
+            Jest <br />
+            <i className="bx bx-mask services__icon-tech"></i>
+            Cypress
           </div>
         </div>
 

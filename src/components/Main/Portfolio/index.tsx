@@ -1,5 +1,6 @@
 import NextJsProject from '../../../assets/img/nextjs.png'
 import CvProject from '../../../assets/img/cvproject.png'
+import CoverPhoto from '../../../assets/img/coverphoto.jpg'
 
 export default function (): JSX.Element {
   return (
@@ -65,6 +66,30 @@ export default function (): JSX.Element {
             </a>
             <a
               href="https://github.com/Fmasgrau/curriculum"
+              target="_blank"
+              className="button button-link"
+              rel="noreferrer"
+            >
+              View Details
+            </a>
+          </div>
+        </div>
+
+        <div className="portfolio__content mix web">
+          <a href="#" target="_blank">
+            <img src={CoverPhoto} alt="coverphoto" className="portfolio__img" />
+          </a>
+          <div className="portfolio__data">
+            <span className="portfolio__subtitle">Metasearch</span>
+            <a
+              href="https://github.com/Fmasgrau/metasearch"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <h2 className="portfolio__title">Metasearch - React JS</h2>
+            </a>
+            <a
+              href="https://github.com/Fmasgrau/metasearch"
               target="_blank"
               className="button button-link"
               rel="noreferrer"
